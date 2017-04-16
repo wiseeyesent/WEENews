@@ -131,17 +131,29 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ``STRIP_INDEXES``.  If it’s set to ``True``, end your links
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
-
+# Changed to Zen theme https://themes.getnikola.com/v7/zen/
+#NAVIGATION_LINKS = {
+#    DEFAULT_LANG: (
+#        ("/archive.html", "Archives"),
+#        ("/categories/index.html", "Tags"),
+#        ("/rss.xml", "RSS feed"),
+#    ),
+#}
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+        ('/index.html', 'Home', 'icon-home'),
+        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/categories/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('/pages/about-jacwest.html', 'About me', 'icon-user'),
+        ('https://twitter.com/wiseeyesent', 'Twitter', 'icon-twitter'),
+        ('https://github.com/wiseeyesent', 'Github', 'icon-github'),
+    )
 }
 
+
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "zen"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.

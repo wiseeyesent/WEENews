@@ -1,4 +1,0 @@
-Sitemap: https://news.wiseeyesent.com/sitemapindex.xml
-
-User-Agent: *
-Host: news.wiseeyesent.com

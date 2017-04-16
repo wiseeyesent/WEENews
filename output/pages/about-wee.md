@@ -1,6 +1,0 @@
-<html><body><h1>Mission Statement</h1>
-<p style="font-size: 1.5em;">Improving Human/Computer relations and enabling digito-analog expression.</p>
-
-<h1><strong>More Info</strong></h1>
-<p style="font-size: 1.5em;">WiseEyes Enterprise is a diverse collection of works and support offered by Joshua A. Cripe West. Focus is intended to start primarily on personal game projects and proceed to more collaborative efforts on movies, music, photography, writing or any other form of creative expression. Currently, the brunt of work being performed involve support for associates, web development, and miscellaneous utilities intended for practice purposes rather than commercial or general use.</p>
-<p style="font-size: 1.5em;">The name originates from the game <a title="Uplink on Steam" href="http://store.steampowered.com/app/1510/" target="_blank">Uplink</a> by Introversion Software. The name WiseEyes was chosen as a player alias for this title alone. Later, when trying to decide upon a domain, Enterprise was added to emphasize the intended growth of the organization to include production of multi-media projects as a means of enabling the individual's creative expression.</p></body></html>
