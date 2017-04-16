@@ -1,12 +1,16 @@
-<html><body><p>Webpage: <a href="https://www.wiseeyesent.com/">WiseEyes Enterprise</a>
-Games: <a href="https://games.wiseeyesent.com/">WEE Games</a>
-News: <a href="/">WEE News</a>
-
-<a title="Projects" href="https://games.wiseeyesent.com/projects/">Projects</a>-
-<a href="http://thingsknotbroken.com/">ThingsKnotBroken</a> - My Wife's jewelry business  website which I administer
-<a href="https://games.wiseeyesent.com/projects/games/weeching/">WEEChing</a> - I Ching Generator via Deoxy.org/iching Library
-<a href="https://games.wiseeyesent.com/projects/games/weemonster/">WEEMonster</a> - Simple Perl Rule-Based AI System
-<a href="https://www.wiseeyesent.com/dev/">Development</a> - Where I keep works in progress, etc.
-<a title="“The Pit” Walkthrough" href="/pages/the-pit-walkthrough.html">UDK - The Pit</a> - Level Designed for DeVry Class
-<a title="GSP475" href="https://www.wiseeyesent.com/gsp475/">GSP475 - Raspberry Cloud</a> - Self-Hosted Cloud Storage School Project
-<a href="https://www.wiseeyesent.com/caffeine/">Caffeine Zine</a> - Collected works from associates of WEE</p></body></html>
+<html><body>
+<p>
+<a href="https://www.wiseeyesent.com/">WiseEyes Enterprise</a><br/>
+<a href="https://games.wiseeyesent.com/">Games</a><br/>
+<a href="/">News</a><br/>
+</p>
+<p>
+<a title="Projects" href="https://games.wiseeyesent.com/projects/">Projects</a>-<br/>
+- <a href="https://games.wiseeyesent.com/projects/games/weeching/">WEEChing</a> - I Ching Generator via Deoxy.org/iching Library<br/>
+- <a href="https://games.wiseeyesent.com/projects/games/weemonster/">WEEMonster</a> - Simple Perl Rule-Based AI System<br/>
+- <a href="https://www.wiseeyesent.com/dev/">Development</a> - Where I keep works in progress, etc.<br/>
+- <a title="“The Pit” Walkthrough" href="/pages/the-pit-walkthrough.html">UDK - The Pit</a> - Level Designed for DeVry Class<br/>
+- <a title="GSP475" href="https://www.wiseeyesent.com/gsp475/">GSP475 - Raspberry Cloud</a> - Self-Hosted Cloud Storage School Project<br/>
+- <a href="https://www.wiseeyesent.com/caffeine/">Caffeine Zine</a> - Collected works from associates of WEE
+</p>
+</body></html>

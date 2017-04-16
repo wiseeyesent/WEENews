@@ -142,6 +142,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'icon-home'),
+        ('/pages/links.html', 'Nav', 'icon-sitemap'),
         ('/archive.html', 'Archives', 'icon-folder-open-alt'),
         ('/categories/index.html', 'Tags', 'icon-tags'),
         ('/rss.xml', 'RSS', 'icon-rss'),
@@ -1173,6 +1174,9 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # </form>
 # <!-- End of custom search -->
 # """ % SITE_URL
+SEARCH_FORM = """
+<iframe src="https://duckduckgo.com/search.html?site=news.wiseeyesent.com&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
+"""
 #
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
