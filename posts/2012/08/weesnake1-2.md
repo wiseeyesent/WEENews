@@ -1,4 +1,4 @@
-<html><body><p>The new version of WEESnake is now live on the <a title="WEESnake 1.2" href="http://games.wiseeyesent.com" target="_blank">games page</a>!
+<html><body><p>The new version of <a title="WEESnake 1.2" href="https://games.wiseeyesent.com/projects/games/weesnake/">WEESnake</a> is now live on the <a title="Games" href="https://games.wiseeyesent.com/" target="_blank">games page</a>!
 
 I've finally implemented a persistent high score board when playing it online embedded in a browser. Right now, only one of my testing scores is listed, so there's plenty of room for new scores!
 
