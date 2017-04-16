@@ -1,0 +1,3 @@
+<html><body><p>In case you haven't noticed by now, deoxy.org has been down for some time. I was hoping it would only be temporary, but that does not seem to be the case. WEEChing was built using requests to deoxy.org/iching for its readings, which were then parsed by the app. As a result, WEEChing itself is down at the moment.
+
+Old libraries of these readings are available from when I originally built my Java and Objective-C I Ching applications. I'll need to redesign WEEChing to use a local/remote database instead, but I wanted to do this for the sake of supporting user profiles anyways. Further updates will be provided when I have time to address this project.</p></body></html>
