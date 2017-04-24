@@ -39,7 +39,7 @@
 .. _Projects: /pages/projects.html
 .. _WEESnake2: /pages/projects/wees2.html
 .. _Zed: /pages/projects/zed.html
-.. _EA52: /pages/projects/ea52.html
+.. _EA52: /pages/projects/snr-proj-grad.html
 .. _GSP475: /pages/projects/gsp475.html
 
 .. _Contact: /pages/contact.html
