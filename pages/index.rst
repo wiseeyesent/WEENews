@@ -28,7 +28,7 @@
 - `GitHub`_
 
 .. _WiseEyes Enterprise: https://www.wiseeyesent.com/
-.. _Games: https://games.wiseeyesent.com/
+.. _Games: http://games.wiseeyesent.com/
 .. _News: /
 .. _Dev: https://dev.wiseeyesent.com/
 

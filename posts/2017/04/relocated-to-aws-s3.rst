@@ -1,6 +1,6 @@
 .. title: Relocated to AWS S3
 .. slug: relocated-to-aws-s3
-.. date: 2017-04-16 21:31:21 UTC
+.. date: 2017-04-16 16:31:21 UTC-05:00
 .. tags: Updates,Website,AWS 
 .. category: updates
 .. link: 

@@ -1,6 +1,6 @@
 .. title: New Theme & GitHub Repo
 .. slug: new-theme-github-repo
-.. date: 2017-04-16 19:52:31 UTC
+.. date: 2017-04-16 14:52:31 UTC-05:00
 .. tags: Updates,Website,Nikola 
 .. category: updates 
 .. link: 
@@ -14,4 +14,4 @@ The site has also been pushed to my `GitHub`_ The dev site already existed there
 .. _Zen: https://themes.getnikola.com/v7/zen/
 .. _dev: https://dev.wiseeyesent.com/
 .. _GitHub: https://github.com/wiseeyesent
-.. _games: https://games.wiseeyesent.com/
+.. _games: http://games.wiseeyesent.com/

@@ -1,6 +1,6 @@
 .. title: FBAR - FaceBook Bots And Server Uptime
 .. slug: fbar
-.. date: 2017-04-15 00:21:54 UTC
+.. date: 2017-04-14 19:21:54 UTC-05:00
 .. tags: Automation,Linux,Facebook 
 .. category: whitepaper
 .. link: 

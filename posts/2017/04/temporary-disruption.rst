@@ -1,6 +1,6 @@
 .. title: Temporary Disruption
 .. slug: temporary-disruption
-.. date: 2017-04-24 16:13:03 UTC
+.. date: 2017-04-24 11:13:03 UTC-05:00
 .. tags: Updates,Website,Outage
 .. category: website
 .. link: 

@@ -1,0 +1,5 @@
+Scanning posts........done!
+[2017-04-27T22:50:31Z] ERROR: check: Broken link in output/index.html: http://deoxy.org/ [Error 502]
+[2017-04-27T22:50:34Z] ERROR: check: Error with: output/index-2.html HTTPSConnectionPool(host='deoxy.org', port=443): Max retries exceeded with url: /iching (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f0f554cffd0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+[2017-04-27T22:50:37Z] ERROR: check: Broken link in output/posts/2015/01/weeching-return.html: http://deoxy.org/ [Error 502]
+[2017-04-27T22:53:02Z] ERROR: check: Error with: output/posts/2013/07/weeching.html HTTPSConnectionPool(host='deoxy.org', port=443): Max retries exceeded with url: /iching (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f0f55475518>: Failed to establish a new connection: [Errno 111] Connection refused',))

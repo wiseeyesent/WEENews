@@ -219,7 +219,7 @@ PAGES = (
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "UTC"
+TIMEZONE = "America/Chicago"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -590,6 +590,11 @@ REDIRECTIONS = [["2014/01/the-pit-walkthrough/index.html", "/posts/2014/01/the-p
 #         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
 #     ]
 # }
+DEPLOY_COMMANDS = {
+    'default': [
+        "aws s3 sync output/ s3://news.wiseeyesent.com",
+    ]
+}
 
 # github_deploy configuration
 # For more details, read the manual:
