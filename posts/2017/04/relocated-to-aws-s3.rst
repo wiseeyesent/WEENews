@@ -7,8 +7,9 @@
 .. description: Infrastructure change 
 .. type: text
 
-Relocated this site to an `AWS S3`_ `bucket`_ just now. Trying to set up `cross-region replication`_ as well. Have been considering custom building a monitoring and disaster recovery bot to automatically update DNS records in the event of a regional failure. Future versions could even integrate `Google Public Cloud`_ (whenever I get an account there) and `RackSpace Cloud Files`_.
+Relocated `this site`_ to an `AWS S3`_ `bucket`_ just now. Trying to set up `cross-region replication`_ as well. Have been considering custom building a monitoring and disaster recovery bot to automatically update DNS records in the event of a regional failure. Future versions could even integrate `Google Public Cloud`_ (whenever I get an account there) and `RackSpace Cloud Files`_.
 
+.. _this site: /
 .. _AWS S3: https://aws.amazon.com/s3/
 .. _bucket: http://news.wiseeyesent.com.s3-website-us-east-1.amazonaws.com/
 .. _cross-region replication: http://wee-s3-www-usw-cal.s3-website-us-west-1.amazonaws.com/

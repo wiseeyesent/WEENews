@@ -25,7 +25,7 @@ SITE_URL = "https://news.wiseeyesent.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://news.wiseeyesent.com/"
-BLOG_EMAIL = "jacripe@gmail.com"
+BLOG_EMAIL = "admin@wiseeyesent.com"
 BLOG_DESCRIPTION = "The latest developments from WiseEyes Enterprise"  # (translatable)
 
 # Nikola is multilingual!
@@ -290,11 +290,11 @@ COMPILERS = {
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
 # The setting is ignored when creating pages (`-d` still works).
-# NEW_POST_DATE_PATH = False
+NEW_POST_DATE_PATH = True 
 
 # What format to use when creating posts with date paths?
 # Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
-# NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
+NEW_POST_DATE_PATH_FORMAT = '%Y/%m'
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
@@ -318,7 +318,7 @@ WRITE_TAG_CLOUD = True
 
 # Generate pages for each section. The site must have at least two sections
 # for this option to take effect. It wouldn't build for just one section.
-POSTS_SECTIONS = True
+POSTS_SECTIONS = False
 
 # Setting this to False generates a list page instead of an index. Indexes
 # are the default and will apply GENERATE_ATOM if set.
@@ -590,9 +590,14 @@ REDIRECTIONS = [["2014/01/the-pit-walkthrough/index.html", "/posts/2014/01/the-p
 #         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
 #     ]
 # }
+#DEPLOY_COMMANDS = {
+#    'default': [
+#        "aws s3 sync output/ s3://news.wiseeyesent.com",
+#    ]
+#}
 DEPLOY_COMMANDS = {
     'default': [
-        "aws s3 sync output/ s3://news.wiseeyesent.com",
+        "rsync -avz --delete output/ /var/www/html/news.wiseeyesent.com/",
     ]
 }
 
@@ -1239,7 +1244,7 @@ SEARCH_FORM = """
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}

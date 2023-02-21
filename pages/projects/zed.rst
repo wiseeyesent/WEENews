@@ -14,7 +14,7 @@ Furthermore, for my GSP410 Team Assignment, we will be documenting & planning th
 UPDATE 20120827: Final documentation has been submitted for the class. It is now available here: games.wiseeyesent.com/files/ProjectZed_Doc&Des.docx
 This documentation will be reviewed & revised as necessary, but marks the first complete documentation for this project.
 Thank you GSP410 SUMA Team A, for your hard work & dilligence.
-–  Aaron Fuller
+– Aaron Fuller
 – Brian Goodspeed
 – Christopher Campshure
 – Christopher Cone
